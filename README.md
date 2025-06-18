@@ -15,7 +15,7 @@
 - スクリーンショット：
   ![顧客管理画面](<img width="1792" alt="スクリーンショット 2025-06-18 14 17 41" src="https://github.com/user-attachments/assets/c288ab62-44c1-4fc8-a289-b114c03ee0d9" />
 )
-- 公開URL：[アプリを開く]([https://yourapp.bubbleapps.io](https://new-crm-66389.bubbleapps.io/version-test))
+- 公開URL：[アプリを開く][https://yourapp.bubbleapps.io](https://new-crm-66389.bubbleapps.io/version-test)
 
 
 
